@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --black: #000000;
+    --blue: #237BC7;
+    --white: #fff;
+    --gray: #E9E9E9;
+}
+
+.container {
+    max-width: 106.4rem;
+    width: 100%;
+}
+
+html {
+    font-size: 62.5%;
+}
